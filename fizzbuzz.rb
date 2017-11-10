@@ -9,3 +9,5 @@ elsif
   puts "nil"
 end
 end
+
+fizzbuzz(x)
