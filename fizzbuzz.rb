@@ -1,4 +1,3 @@
-int=15
 def fizzbuzz(int)
 if int % 3 == 0
   puts "Fizz"
