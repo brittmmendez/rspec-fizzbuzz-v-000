@@ -1,12 +1,12 @@
 def fizzbuzz
-if 
+if
   puts "Fizz"
-elsif 
+elsif
   puts "Buzz"
 
-elsif 
+elsif
   puts "FizzBuzz"
-elsif 
-  puts "nil" 
-  
+elsif
+  puts "nil"
+
 end
